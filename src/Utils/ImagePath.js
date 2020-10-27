@@ -1,0 +1,10 @@
+import icon1 from './../images/100-500x200.jpg';
+import icon2 from './../images/101-500x200.jpg';
+import icon3 from './../images/102-500x200.jpg';
+import icon4 from './../images/103-500x200.jpg';
+import icon5 from './../images/104-500x200.jpg';
+import icon6 from './../images/105-500x200.jpg';
+import icon7 from './../images/106-500x200.jpg';
+import icon8 from './../images/107-500x200.jpg';
+import icon9 from './../images/108-500x200.jpg';
+export const RESTAURANT_ICONS = [icon1, icon2, icon3, icon4, icon5, icon6, icon7, icon8, icon9 ];
